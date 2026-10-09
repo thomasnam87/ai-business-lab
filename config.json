@@ -1,0 +1,14 @@
+{
+  "brand": "AI Business Lab",
+  "language": "en",
+  "primary_platform": "youtube",
+  "approval_required_for_publish": true,
+  "north_star_metric": "fiverr_commission_per_1000_views",
+  "pillars": {
+    "ai_video_ugc": 0.25,
+    "faceless_youtube": 0.2,
+    "ai_automation": 0.2,
+    "ai_tools_workflows": 0.25,
+    "outsourcing_fiverr": 0.1
+  }
+}
